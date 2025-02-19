@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GNagaChetan
-- 👀 I’m interested in Coding
-- 🌱 I’m currently learning Java,Python,Full Stack
+- 👀 I’m interested in Web Development, Coding
+- 🌱 I’m currently learning Java,Python,Full Stack, DAA
 - 📫 How to reach me MY EMail- gadenagachetan007@gmail.com
 
 
