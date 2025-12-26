@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GNagaChetan
-- 👀 I'm interested in Web
+- 👀 I'm interested in Web Development
 - Development, Coding, Data Engineering
 - 🌱 I’m currently learning Java,Python,Full Stack Development, Operating Systems
 - 📫 How to reach me My EMail- gadenagachetan007@gmail.com
